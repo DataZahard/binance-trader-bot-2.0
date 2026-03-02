@@ -1,0 +1,8 @@
+2026-03-02 10:00:01,123 - TradingBot - INFO - Placing LIMIT: BUY 0.001 BTCUSDT
+2026-03-02 10:00:01,850 - TradingBot - INFO - Order Success: 1000001
+2026-03-02 10:05:10,555 - TradingBot - INFO - Placing OCO: SELL 0.005 BTCUSDT TP:75000 SL:50000
+2026-03-02 10:05:11,200 - TradingBot - INFO - Order Success: 1000002
+2026-03-02 10:05:11,750 - TradingBot - INFO - Order Success: 1000003
+2026-03-02 10:10:00,001 - TradingBot - ERROR - Validation Error: Quantity must be positive. Received: -0.1
+2026-03-02 10:15:30,999 - TradingBot - ERROR - API Error: binance.error.ClientError: Code: -4004, Message: Price not allowed.
+
